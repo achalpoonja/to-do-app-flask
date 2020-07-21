@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+
+.custom-form {
+    background-color: #f8f8f8;
+    padding: 20px;
+    margin-top: 10vh;
+    border-radius: 5px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2)
+}
+
+.full-width {
+    width: 100% !important;
+}
+
+.icon {
+    width: 20px;
+}
+
+.action {
+    background: transparent;
+    border: none;
+}

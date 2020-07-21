@@ -1,0 +1,16 @@
+1) Install Python3 in your system
+2) Install PIP
+3) Install Flask 
+
+Running the Application:
+#In Windows Platform
+1) Open command prompt and navigate to the project folder and give the command
+
+ (i) set $FLASK_APP=app.py
+ (ii) flask run
+
+2) Open a browser and go to http://127.0.0.1:5000
+
+Admin Credentials:
+username: admin
+password: password
